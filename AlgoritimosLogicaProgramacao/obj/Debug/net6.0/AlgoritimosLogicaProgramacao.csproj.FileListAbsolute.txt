@@ -1,0 +1,14 @@
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\bin\Debug\net6.0\AlgoritimosLogicaProgramacao.exe
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\bin\Debug\net6.0\AlgoritimosLogicaProgramacao.deps.json
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\bin\Debug\net6.0\AlgoritimosLogicaProgramacao.runtimeconfig.json
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\bin\Debug\net6.0\AlgoritimosLogicaProgramacao.dll
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\bin\Debug\net6.0\AlgoritimosLogicaProgramacao.pdb
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.AssemblyInfoInputs.cache
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.AssemblyInfo.cs
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.csproj.CoreCompileInputs.cache
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.dll
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\refint\AlgoritimosLogicaProgramacao.dll
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.pdb
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\AlgoritimosLogicaProgramacao.genruntimeconfig.cache
+C:\Dio-git-e-github\Projeto-Logica-de-programacao\AlgoritimosLogicaProgramacao\AlgoritimosLogicaProgramacao\obj\Debug\net6.0\ref\AlgoritimosLogicaProgramacao.dll
